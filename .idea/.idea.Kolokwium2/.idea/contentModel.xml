@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\domin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Kolokwium2.-2063533280.00" t="ExcludeRecursive" />
+    <e p="C:\Users\domin\RiderProjects\Kolokwium2" t="IncludeFlat">
+      <e p="Kolokwium2" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="ChampionshipController.cs" t="Include" />
+          <e p="TeamController.cs" t="Include" />
+        </e>
+        <e p="DTOs" t="Include">
+          <e p="Request" t="Include">
+            <e p="PlayerRequest.cs" t="Include" />
+          </e>
+          <e p="Response" t="Include" />
+        </e>
+        <e p="Exceptions" t="Include">
+          <e p="PlayerAlreadyExistException.cs" t="Include" />
+          <e p="PlayerNotExistsException.cs" t="Include" />
+          <e p="WrongAgeException.cs" t="Include" />
+        </e>
+        <e p="Kolokwium2.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200618103950_InitModelsMigration.cs" t="Include" />
+          <e p="20200618103950_InitModelsMigration.Designer.cs" t="Include" />
+          <e p="20200618105554_AddRelationsMigration.cs" t="Include" />
+          <e p="20200618105554_AddRelationsMigration.Designer.cs" t="Include" />
+          <e p="TournamentDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Championship.cs" t="Include" />
+          <e p="ChampionshipTeam.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerTeam.cs" t="Include" />
+          <e p="Team.cs" t="Include" />
+          <e p="TournamentDbContext.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Kolokwium2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="ITournamentDataBaseService.cs" t="Include" />
+          <e p="SqlTournamentDataBaseService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Kolokwium2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
